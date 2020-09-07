@@ -1,4 +1,5 @@
 // For compilers that don't support precompilation, include "wx/wx.h"
+//source code from user eco on https://forums.wxwidgets.org/viewtopic.php?t=214
 #include "wx/wxprec.h"
 
 #ifndef WX_PRECOMP
